@@ -1,0 +1,4 @@
+#just the config
+default:
+  enabled:
+    pedal-wall: true

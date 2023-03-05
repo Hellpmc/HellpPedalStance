@@ -1,0 +1,7 @@
+name: HellpPedalStance
+version: '${project.version}'
+main: cn.hellp.hpwriterkyle.hellppedalstance.HellpPedalStance
+description: just the stance
+commands:
+  hellppedalstance:
+    aliases: hps
